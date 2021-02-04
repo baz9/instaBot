@@ -1,8 +1,6 @@
 # instaBot
 An instagram bot written in Python that uses selenium and firefox to generate traffic.
 
-Selenium and Firefox are required.
-
 After trying to find an instagram bot that would successfully generate likes/views/follows to an account I decided to build my own.
 
 The bot has been tested over a 3 month period to the point where it will now run uninterrupted for an extended period of time.
